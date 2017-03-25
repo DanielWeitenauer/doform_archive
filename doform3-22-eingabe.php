@@ -17,7 +17,7 @@
  * Datum Eingabe: 11.05.2010
  * Ursprung: Formular-Generator Redaxo 3.2 Demo, do form! 2
  * Typ: Modifikation / Erweiterung  
- * Dank an: Koala, Markus "Zonk" Lorch, Markus Feustel, Harry Brader, 
+ * Dank an: Koala, Markus "Zonk" Lorch, Markus Feustel, 
  * brandes-webdesign, Simon Teufel, snaft (Marc), grizou (Christian), 
  * Markus Staab, Jan Kasper Münnich, Tito, Elricco (Tim), iLis, CHO
  * AMU,MS-EDDIE,MikeP 
